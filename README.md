@@ -72,10 +72,10 @@ Search by name
 Filter by certifications or skills
 Show all employees (even if assigned)
 Reset filters if something seems stuck
-📤 Excel Export & Live Dashboard (New)
+Excel Export & Live Dashboard (New)
 FBoard now includes functionality to export your whiteboard into Excel and publish a live dashboard for team-wide access.
 
-✅ Excel Export
+Excel Export
 Run the jsonToExcel.py script to convert your current output.json into a structured Excel file:
 
 Job Site Summary – Electrician totals per job site (by skill).
@@ -83,7 +83,7 @@ Employees – All employee data (roles, phone, status, certifications, etc.).
 Employee List – Grouped by job site for easy crew viewing.
 This feature is ideal for internal reporting, emailing stakeholders, or archiving job site rosters.
 
-📊 Live Dashboard Server
+Live Dashboard Server
 Launch a live dashboard using run_dashboard.py, which:
 
 (Optional) Uses a web scraper to fetch the latest CSV from Traqspera.
@@ -92,22 +92,21 @@ Hosts a Dash-based web dashboard that includes:
 A bar graph of electrician distribution.
 Full job site crew listings.
 A request form for suggested changes.
-⚠️ Note:
-The run_dashboard.py script is currently tailored to our internal setup using Selenium for web scraping.
+Note:
+**The run_dashboard.py script is currently tailored to our internal setup using Selenium for web scraping.
 You must adjust this script if you're using your own CSV/JSON file or a different data source.
-If you wish to use the web scraping feature, you must also update credentials and paths accordingly.
+If you wish to use the web scraping feature, you must also update credentials and paths accordingly.**
 
-🌐 Remote Access via Ngrok
+Remote Access via Ngrok
 Share your live dashboard with others using Ngrok:
 
-ngrok http 8050
+ngrok http 5000 # enter this into the ngrok console: https://ngrok.com/downloads/windows?tab=download
 This makes your dashboard publicly accessible with a simple URL — perfect for remote supervisors, team leads, or clients who need read-only access.
 
 File Structure
-graphql
-Copy
-Edit
+
 FBoard/
+
 ├── main.py                  # Entry point for the application  
 ├── whiteboard_online.py    # Core application logic and GUI  
 ├── draggable_box.py        # Logic for draggable employee boxes  
