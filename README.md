@@ -38,12 +38,10 @@ This is the public version of an internal tool used to coordinate electricians, 
 Install dependencies:
 
 pip install -r requirements.txt
-Running the App
+
+**Running the App**
 Simply run:
 
-bash
-Copy
-Edit
 python main.py
 The app will:
 
