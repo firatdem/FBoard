@@ -95,6 +95,7 @@ A request form for suggested changes.
 Note:
 **The run_dashboard.py script is currently tailored to our internal setup using Selenium for web scraping.
 You must adjust this script if you're using your own CSV/JSON file or a different data source.
+Comment out steps 1 and 2 to only utilize whiteboard functionality
 If you wish to use the web scraping feature, you must also update credentials and paths accordingly.**
 
 Remote Access via Ngrok
