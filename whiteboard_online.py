@@ -11,6 +11,7 @@ from watchdog.events import FileSystemEventHandler
 from constants import ROLE_COLORS, DEFAULT_EMPLOYEE_X, DEFAULT_EMPLOYEE_Y, GRID_SIZE, JOB_HUB_WIDTH, JOB_HUB_HEIGHT, \
     VERTICAL_SPACING, MAX_COLUMNS, DEFAULT_ZOOM_SCALE
 
+
 def select_file():
     """Prompt the user to select a JSON file and return the file path."""
     root = tk.Tk()
@@ -27,6 +28,7 @@ def select_file():
     root.destroy()
     print(f"File selected: {shared_file_path}")  # Debug statement to print the selected file path
     return shared_file_path
+
 
 class JSONFileHandler(FileSystemEventHandler):
     last_event_time = 0
