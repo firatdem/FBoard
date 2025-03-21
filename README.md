@@ -135,3 +135,10 @@ Zooming is experimental and may cause rendering issues — use with caution.
 License
 This project is provided as-is for internal or educational use.
 No warranty or guarantee is provided.
+
+Example data and run:
+
+![bar-graph-3 21 2025(morning)](https://github.com/user-attachments/assets/879ad2ae-3f5d-46b6-b65d-4d81f45240dc)
+![bar-graph-3 21 2025(morning)(2)](https://github.com/user-attachments/assets/6488c069-de1b-4997-b6e3-b38170d99829)
+![Board-3 21(1)](https://github.com/user-attachments/assets/66d913e1-0d9e-4aa5-bcaa-17dd1a69a8eb)
+![Board-3 21(2)](https://github.com/user-attachments/assets/99299feb-1e3e-40ec-88ab-18e5fa7fb53e)
