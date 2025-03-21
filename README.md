@@ -76,14 +76,21 @@ Reset filters if something seems stuck
 
 ## File Structure
 
-📁 FBoard/
+FBoard/
 ├── main.py                  # Entry point for the application
+
 ├── whiteboard_online.py    # Core application logic and GUI
+
 ├── draggable_box.py        # Logic for draggable employee boxes
+
 ├── job_site_hub.py         # Logic for job site hubs
+
 ├── constants.py            # Configuration and layout constants
+
 ├── output.json             # Auto-saved shared board state
+
 ├── requirements.txt        # Required Python packages
+
 └── README.md               # Project documentation
 
 **Customization**
