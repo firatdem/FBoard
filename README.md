@@ -84,7 +84,7 @@ Employee List – Grouped by job site for easy crew viewing.
 This feature is ideal for internal reporting, emailing stakeholders, or archiving job site rosters.
 
 Live Dashboard Server
-Launch a live dashboard using run_dashboard.py, which:
+Launch a live dashboard using **run_dashboard.py**, which:
 
 (Optional) Uses a web scraper to fetch the latest CSV from Traqspera.
 Converts CSV → JSON → Excel.
