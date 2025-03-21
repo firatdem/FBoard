@@ -1,0 +1,3273 @@
+{
+    "employees": [
+        {
+            "text": "LRC Construction",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "1515 Surf",
+            "box": "GM",
+            "x": 87.25,
+            "y": 70.25
+        },
+        {
+            "text": "Jose Moran Santos",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "NY",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 131.0
+        },
+        {
+            "text": "Guillermo Rivas",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 140.0
+        },
+        {
+            "text": "Carlos Mejia",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 149.0
+        },
+        {
+            "text": "Jennifer Rodriguez",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 158.0
+        },
+        {
+            "text": "Fritzrdy Mcneish",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "NY",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1256.0
+        },
+        {
+            "text": "Sadat Munkaila",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 167.0
+        },
+        {
+            "text": "Diego Mendez Morales",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 176.0
+        },
+        {
+            "text": "David Turner",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Junior Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "2330 BORDEN AVE CORESHELL",
+            "box": "Electrician",
+            "x": 510.25,
+            "y": 131.0
+        },
+        {
+            "text": "Alvaro Rodriguez",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1265.0
+        },
+        {
+            "text": "Jose Molina Morales",
+            "role": "Fire Alarm Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Fire Alarm Sub Foreman"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 185.0
+        },
+        {
+            "text": "Eastman Cooke",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "81 Arden Street",
+            "box": "GM",
+            "x": 721.75,
+            "y": 70.25
+        },
+        {
+            "text": "GWG",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "Candlewood Suites",
+            "box": "GM",
+            "x": 933.25,
+            "y": 70.25
+        },
+        {
+            "text": "Paul Rodriguez",
+            "role": "Roughing Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Roughing Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Sq SOUTH Tower",
+            "box": "Electrician",
+            "x": 1567.75,
+            "y": 131.0
+        },
+        {
+            "text": "Wilmer Santos Cabrera",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 131.0
+        },
+        {
+            "text": "Garrett Cracolici",
+            "role": "Fire Alarm Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Fire Alarm Mechanic"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 140.0
+        },
+        {
+            "text": "Molfetta Group",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "38 Jackson St",
+            "box": "GM",
+            "x": 1144.75,
+            "y": 70.25
+        },
+        {
+            "text": "Juan Rodriguez Aguilar",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 149.0
+        },
+        {
+            "text": "Fredy Cajamarca",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 158.0
+        },
+        {
+            "text": "Edwin Rumipamba",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1274.0
+        },
+        {
+            "text": "Duane Ivory",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 194.0
+        },
+        {
+            "text": "Danny Henrique",
+            "role": "Fire Alarm Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Fire Alarm Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 167.0
+        },
+        {
+            "text": "Ruben Mercedes Madrigal",
+            "role": "Fire Alarm Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Fire Alarm Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 176.0
+        },
+        {
+            "text": "James Bradley",
+            "role": "Foreman",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "NY",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Foreman",
+            "x": 1356.25,
+            "y": 88.25
+        },
+        {
+            "text": "March Construction",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "GM",
+            "x": 1356.25,
+            "y": 70.25
+        },
+        {
+            "text": "Robert Santos",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 203.0
+        },
+        {
+            "text": "Johnny Sanchez",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 212.0
+        },
+        {
+            "text": "Juan Metz Hombla",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 221.0
+        },
+        {
+            "text": "John Mayi",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 185.0
+        },
+        {
+            "text": "Joel Mayi",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 194.0
+        },
+        {
+            "text": "Carlos Rigacci Zuloaga",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Junior Mechanic"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 203.0
+        },
+        {
+            "text": "Lenny Traveras",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Brick Church BUILDING A",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 693.5
+        },
+        {
+            "text": "Fabian Vera Illescas",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 212.0
+        },
+        {
+            "text": "Tim P",
+            "role": "PM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "35 BAY STREET",
+            "box": "PM",
+            "x": 87.25,
+            "y": 333.5
+        },
+        {
+            "text": "March Construction",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "35 BAY STREET",
+            "box": "GM",
+            "x": 87.25,
+            "y": 351.5
+        },
+        {
+            "text": "Danny Jankie",
+            "role": "Foreman",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Lighthouse Point Resident",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 412.25
+        },
+        {
+            "text": "Santos Gutierrez Tax",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1283.0
+        },
+        {
+            "text": "Vanderlei Goncalves",
+            "role": "Fire Alarm Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Fire Alarm Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "NY",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 230.0
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "400 Central Park West",
+            "box": "PM",
+            "x": 510.25,
+            "y": 333.5
+        },
+        {
+            "text": "DVM",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "400 Central Park West",
+            "box": "GM",
+            "x": 510.25,
+            "y": 351.5
+        },
+        {
+            "text": "KBE NYC",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "104-19 Roosevelt",
+            "box": "GM",
+            "x": 721.75,
+            "y": 351.5
+        },
+        {
+            "text": "Ginsberg Developme...",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "Admirals Cove",
+            "box": "GM",
+            "x": 933.25,
+            "y": 351.5
+        },
+        {
+            "text": "Volvo GC",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "1 Volvo Drive",
+            "box": "GM",
+            "x": 1144.75,
+            "y": 351.5
+        },
+        {
+            "text": "Jhony Pizarro",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1292.0
+        },
+        {
+            "text": "Ludin Porix",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 221.0
+        },
+        {
+            "text": "Sheraz Akhtar",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 230.0
+        },
+        {
+            "text": "Bas GC",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "Bas Columbia",
+            "box": "GM",
+            "x": 1567.75,
+            "y": 351.5
+        },
+        {
+            "text": "Collin Phillips",
+            "role": "Electrician",
+            "phone": "NaN",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "2902 Emmons ave - hotel underground",
+            "box": "Electrician",
+            "x": 721.75,
+            "y": 974.75
+        },
+        {
+            "text": "CMA",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "GM",
+            "x": 298.75,
+            "y": 70.25
+        },
+        {
+            "text": "Ugo De Santis",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Sq SOUTH Tower",
+            "box": "Electrician",
+            "x": 1567.75,
+            "y": 140.0
+        },
+        {
+            "text": "March Construction",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "2330 BORDEN AVE CORESHELL",
+            "box": "GM",
+            "x": 510.25,
+            "y": 70.25
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "PM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "PM",
+            "x": 1356.25,
+            "y": 52.25
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "PM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church BUILDING A",
+            "box": "PM",
+            "x": 87.25,
+            "y": 614.75
+        },
+        {
+            "text": "Daniel De Los Santos",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 239.0
+        },
+        {
+            "text": "Adam Prospere",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "Both",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "Journeyman",
+            "current_status": "Sick",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 248.0
+        },
+        {
+            "text": "Carlos Torres",
+            "role": "Foreman",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "nan",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1301.0
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "CDJR Freeland, TN",
+            "box": "PM",
+            "x": 1144.75,
+            "y": 614.75
+        },
+        {
+            "text": "Richard Collins",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "Yes",
+            "nj_ny_certified": "NY",
+            "electrician_rank": "2",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 257.0
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "PM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "81 Arden Street",
+            "box": "PM",
+            "x": 721.75,
+            "y": 52.25
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "PM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "1515 Surf",
+            "box": "PM",
+            "x": 87.25,
+            "y": 52.25
+        },
+        {
+            "text": "Triangle Equities",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church BUILDING A",
+            "box": "GM",
+            "x": 87.25,
+            "y": 632.75
+        },
+        {
+            "text": "Triangle Equities",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church Garage",
+            "box": "GM",
+            "x": 1356.25,
+            "y": 351.5
+        },
+        {
+            "text": "InFEWsion",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "28 Tyburski",
+            "box": "GM",
+            "x": 721.75,
+            "y": 632.75
+        },
+        {
+            "text": "Bright Constructio...",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Ballenger Pump Pumphouse",
+            "box": "GM",
+            "x": 933.25,
+            "y": 632.75
+        },
+        {
+            "text": "Apex",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "CDJR Freeland, TN",
+            "box": "GM",
+            "x": 1144.75,
+            "y": 632.75
+        },
+        {
+            "text": "Apex",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "CDJR Bridgeton, NJ",
+            "box": "GM",
+            "x": 1567.75,
+            "y": 632.75
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "CDJR Bridgeton, NJ",
+            "box": "PM",
+            "x": 1567.75,
+            "y": 614.75
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "DCH Honda Tampa",
+            "box": "PM",
+            "x": 87.25,
+            "y": 896.0
+        },
+        {
+            "text": "Qmerit",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "DCH Honda Wesley Chapel",
+            "box": "GM",
+            "x": 298.75,
+            "y": 914.0
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "Spirit CDJR Swedesboro, NJ",
+            "box": "PM",
+            "x": 1356.25,
+            "y": 614.75
+        },
+        {
+            "text": "Qmerit",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "DCH Honda Tampa",
+            "box": "GM",
+            "x": 87.25,
+            "y": 914.0
+        },
+        {
+            "text": "Apex",
+            "role": "GM",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Spirit CDJR Swedesboro, NJ",
+            "box": "GM",
+            "x": 1356.25,
+            "y": 632.75
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "DCH Honda Wesley Chapel",
+            "box": "PM",
+            "x": 298.75,
+            "y": 896.0
+        },
+        {
+            "text": "DVM",
+            "role": "GM",
+            "phone": NaN,
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": 0,
+            "certifications": [],
+            "worker_status": NaN,
+            "current_status": "On-site",
+            "job_site": "200 E 15th Street",
+            "box": "GM",
+            "x": 510.25,
+            "y": 914.0
+        },
+        {
+            "text": "Mikey B",
+            "role": "PM",
+            "phone": "NaN",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [
+                "OSHA Card"
+            ],
+            "worker_status": "nan",
+            "current_status": "On-site",
+            "job_site": "200 E 15th Street",
+            "box": "PM",
+            "x": 510.25,
+            "y": 896.0
+        },
+        {
+            "text": "Nelson Pires",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Mechanic"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 239.0
+        },
+        {
+            "text": "Haruna Tukara",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "Sick",
+            "job_site": "Unassigned",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 1310.0
+        },
+        {
+            "text": "Ryan Cowan",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 266.0
+        },
+        {
+            "text": "Dineuris Lopez",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 248.0
+        },
+        {
+            "text": "Felix Camacho",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "2330 BORDEN AVE CORESHELL",
+            "box": "Super",
+            "x": 510.25,
+            "y": 106.25
+        },
+        {
+            "text": "Felix Camacho",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "38 Jackson St",
+            "box": "Super",
+            "x": 1144.75,
+            "y": 106.25
+        },
+        {
+            "text": "Angelo Cruz",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 257.0
+        },
+        {
+            "text": "Felix Camacho",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Super",
+            "x": 298.75,
+            "y": 106.25
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Admirals Cove",
+            "box": "Super",
+            "x": 933.25,
+            "y": 387.5
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church Garage",
+            "box": "Super",
+            "x": 1356.25,
+            "y": 387.5
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Candlewood Suites",
+            "box": "Super",
+            "x": 933.25,
+            "y": 106.25
+        },
+        {
+            "text": "Frank Sanders",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church BUILDING A",
+            "box": "Super",
+            "x": 87.25,
+            "y": 668.75
+        },
+        {
+            "text": "Felix Camacho",
+            "role": "Super",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "1 Volvo Drive",
+            "box": "Super",
+            "x": 1144.75,
+            "y": 387.5
+        },
+        {
+            "text": "Silvio DeLuca",
+            "role": "Foreman",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "737 4th Ave",
+            "box": "Electrician",
+            "x": 298.75,
+            "y": 88.25
+        },
+        {
+            "text": "Reginald Laventure",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "Sick",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 266.0
+        },
+        {
+            "text": "Kit Bargamento",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 275.0
+        },
+        {
+            "text": "Felix Vicente",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Sq SOUTH Tower",
+            "box": "Electrician",
+            "x": 1567.75,
+            "y": 149.0
+        },
+        {
+            "text": "Muhammad Anwar",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Courthouse Square-Revised",
+            "box": "Electrician",
+            "x": 1356.25,
+            "y": 284.0
+        },
+        {
+            "text": "Jackson Uzcategui-Pin",
+            "role": "Electrician",
+            "phone": "",
+            "skills": [
+                "Helper"
+            ],
+            "sst_card": "No",
+            "nj_ny_certified": "NJ",
+            "electrician_rank": "0",
+            "certifications": [],
+            "worker_status": "Journeyman",
+            "current_status": "On-site",
+            "job_site": "Brick Church BUILDING A",
+            "box": "Electrician",
+            "x": 87.25,
+            "y": 702.5
+        }
+    ],
+    "job_sites": [
+        {
+            "name": "1515 Surf",
+            "x": 50.0,
+            "y": 50.0,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    52.25,
+                    131.0,
+                    250.25,
+                    295.25
+                ],
+                "PMCoords": [
+                    52.25,
+                    52.25,
+                    250.25,
+                    68.0
+                ],
+                "GMCoords": [
+                    52.25,
+                    70.25,
+                    250.25,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    52.25,
+                    88.25,
+                    250.25,
+                    104.0
+                ],
+                "SuperCoords": [
+                    52.25,
+                    106.25,
+                    250.25,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": "No one clocked in"
+        },
+        {
+            "name": "737 4th Ave",
+            "x": 261.5,
+            "y": 50.0,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": true,
+                "Super": true,
+                "Electrician": [
+                    301,
+                    303,
+                    305,
+                    307,
+                    311,
+                    313,
+                    319,
+                    339,
+                    349,
+                    351,
+                    353,
+                    373,
+                    405,
+                    407,
+                    413,
+                    453,
+                    475
+                ],
+                "ElectricianBoxCoords": [
+                    263.75,
+                    131.0,
+                    461.75,
+                    295.25
+                ],
+                "PMCoords": [
+                    263.75,
+                    52.25,
+                    461.75,
+                    68.0
+                ],
+                "GMCoords": [
+                    263.75,
+                    70.25,
+                    461.75,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    263.75,
+                    88.25,
+                    461.75,
+                    104.0
+                ],
+                "SuperCoords": [
+                    263.75,
+                    106.25,
+                    461.75,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": "Superintendent: Felix\n\n5 helpers? request or statement?"
+        },
+        {
+            "name": "2330 BORDEN AVE CORESHELL",
+            "x": 473.0,
+            "y": 50.0,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [
+                    315
+                ],
+                "ElectricianBoxCoords": [
+                    475.25,
+                    131.0,
+                    673.25,
+                    295.25
+                ],
+                "PMCoords": [
+                    475.25,
+                    52.25,
+                    673.25,
+                    68.0
+                ],
+                "GMCoords": [
+                    475.25,
+                    70.25,
+                    673.25,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    475.25,
+                    88.25,
+                    673.25,
+                    104.0
+                ],
+                "SuperCoords": [
+                    475.25,
+                    106.25,
+                    673.25,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "81 Arden Street",
+            "x": 684.5,
+            "y": 50.0,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    686.75,
+                    131.0,
+                    884.75,
+                    295.25
+                ],
+                "PMCoords": [
+                    686.75,
+                    52.25,
+                    884.75,
+                    68.0
+                ],
+                "GMCoords": [
+                    686.75,
+                    70.25,
+                    884.75,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    686.75,
+                    88.25,
+                    884.75,
+                    104.0
+                ],
+                "SuperCoords": [
+                    686.75,
+                    106.25,
+                    884.75,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Candlewood Suites",
+            "x": 896.0,
+            "y": 50.0,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    898.25,
+                    131.0,
+                    1096.25,
+                    295.25
+                ],
+                "PMCoords": [
+                    898.25,
+                    52.25,
+                    1096.25,
+                    68.0
+                ],
+                "GMCoords": [
+                    898.25,
+                    70.25,
+                    1096.25,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    898.25,
+                    88.25,
+                    1096.25,
+                    104.0
+                ],
+                "SuperCoords": [
+                    898.25,
+                    106.25,
+                    1096.25,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "38 Jackson St",
+            "x": 1107.5,
+            "y": 50.0,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": true,
+                "Super": true,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1109.75,
+                    131.0,
+                    1307.75,
+                    295.25
+                ],
+                "PMCoords": [
+                    1109.75,
+                    52.25,
+                    1307.75,
+                    68.0
+                ],
+                "GMCoords": [
+                    1109.75,
+                    70.25,
+                    1307.75,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    1109.75,
+                    88.25,
+                    1307.75,
+                    104.0
+                ],
+                "SuperCoords": [
+                    1109.75,
+                    106.25,
+                    1307.75,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Courthouse Square-Revised",
+            "x": 1319.0,
+            "y": 50.0,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": true,
+                "Super": false,
+                "Electrician": [
+                    327,
+                    329,
+                    333,
+                    335,
+                    341,
+                    343,
+                    355,
+                    357,
+                    359,
+                    363,
+                    387,
+                    389,
+                    449,
+                    455,
+                    461,
+                    477,
+                    479,
+                    483
+                ],
+                "ElectricianBoxCoords": [
+                    1321.25,
+                    131.0,
+                    1519.25,
+                    295.25
+                ],
+                "PMCoords": [
+                    1321.25,
+                    52.25,
+                    1519.25,
+                    68.0
+                ],
+                "GMCoords": [
+                    1321.25,
+                    70.25,
+                    1519.25,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    1321.25,
+                    88.25,
+                    1519.25,
+                    104.0
+                ],
+                "SuperCoords": [
+                    1321.25,
+                    106.25,
+                    1519.25,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Courthouse Sq SOUTH Tower",
+            "x": 1530.5,
+            "y": 50.0,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [
+                    325,
+                    397,
+                    481
+                ],
+                "ElectricianBoxCoords": [
+                    1532.75,
+                    131.0,
+                    1730.75,
+                    295.25
+                ],
+                "PMCoords": [
+                    1532.75,
+                    52.25,
+                    1730.75,
+                    68.0
+                ],
+                "GMCoords": [
+                    1532.75,
+                    70.25,
+                    1730.75,
+                    86.0
+                ],
+                "ForemanCoords": [
+                    1532.75,
+                    88.25,
+                    1730.75,
+                    104.0
+                ],
+                "SuperCoords": [
+                    1532.75,
+                    106.25,
+                    1730.75,
+                    122.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "35 BAY STREET",
+            "x": 50.0,
+            "y": 331.25,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": true,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    52.25,
+                    412.25,
+                    250.25,
+                    576.5
+                ],
+                "PMCoords": [
+                    52.25,
+                    333.5,
+                    250.25,
+                    349.25
+                ],
+                "GMCoords": [
+                    52.25,
+                    351.5,
+                    250.25,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    52.25,
+                    369.5,
+                    250.25,
+                    385.25
+                ],
+                "SuperCoords": [
+                    52.25,
+                    387.5,
+                    250.25,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Lighthouse Point Resident",
+            "x": 261.5,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": true,
+                "Super": false,
+                "Electrician": [
+                    369
+                ],
+                "ElectricianBoxCoords": [
+                    263.75,
+                    412.25,
+                    461.75,
+                    576.5
+                ],
+                "PMCoords": [
+                    263.75,
+                    333.5,
+                    461.75,
+                    349.25
+                ],
+                "GMCoords": [
+                    263.75,
+                    351.5,
+                    461.75,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    263.75,
+                    369.5,
+                    461.75,
+                    385.25
+                ],
+                "SuperCoords": [
+                    263.75,
+                    387.5,
+                    461.75,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "400 Central Park West",
+            "x": 473.0,
+            "y": 331.25,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    475.25,
+                    412.25,
+                    673.25,
+                    576.5
+                ],
+                "PMCoords": [
+                    475.25,
+                    333.5,
+                    673.25,
+                    349.25
+                ],
+                "GMCoords": [
+                    475.25,
+                    351.5,
+                    673.25,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    475.25,
+                    369.5,
+                    673.25,
+                    385.25
+                ],
+                "SuperCoords": [
+                    475.25,
+                    387.5,
+                    673.25,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "104-19 Roosevelt",
+            "x": 684.5,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    686.75,
+                    412.25,
+                    884.75,
+                    576.5
+                ],
+                "PMCoords": [
+                    686.75,
+                    333.5,
+                    884.75,
+                    349.25
+                ],
+                "GMCoords": [
+                    686.75,
+                    351.5,
+                    884.75,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    686.75,
+                    369.5,
+                    884.75,
+                    385.25
+                ],
+                "SuperCoords": [
+                    686.75,
+                    387.5,
+                    884.75,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": "Super: Frank Sanders"
+        },
+        {
+            "name": "Admirals Cove",
+            "x": 896.0,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    898.25,
+                    412.25,
+                    1096.25,
+                    576.5
+                ],
+                "PMCoords": [
+                    898.25,
+                    333.5,
+                    1096.25,
+                    349.25
+                ],
+                "GMCoords": [
+                    898.25,
+                    351.5,
+                    1096.25,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    898.25,
+                    369.5,
+                    1096.25,
+                    385.25
+                ],
+                "SuperCoords": [
+                    898.25,
+                    387.5,
+                    1096.25,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "1 Volvo Drive",
+            "x": 1107.5,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1109.75,
+                    412.25,
+                    1307.75,
+                    576.5
+                ],
+                "PMCoords": [
+                    1109.75,
+                    333.5,
+                    1307.75,
+                    349.25
+                ],
+                "GMCoords": [
+                    1109.75,
+                    351.5,
+                    1307.75,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    1109.75,
+                    369.5,
+                    1307.75,
+                    385.25
+                ],
+                "SuperCoords": [
+                    1109.75,
+                    387.5,
+                    1307.75,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Brick Church Garage",
+            "x": 1319.0,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1321.25,
+                    412.25,
+                    1519.25,
+                    576.5
+                ],
+                "PMCoords": [
+                    1321.25,
+                    333.5,
+                    1519.25,
+                    349.25
+                ],
+                "GMCoords": [
+                    1321.25,
+                    351.5,
+                    1519.25,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    1321.25,
+                    369.5,
+                    1519.25,
+                    385.25
+                ],
+                "SuperCoords": [
+                    1321.25,
+                    387.5,
+                    1519.25,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Bas Columbia",
+            "x": 1530.5,
+            "y": 331.25,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1532.75,
+                    412.25,
+                    1730.75,
+                    576.5
+                ],
+                "PMCoords": [
+                    1532.75,
+                    333.5,
+                    1730.75,
+                    349.25
+                ],
+                "GMCoords": [
+                    1532.75,
+                    351.5,
+                    1730.75,
+                    367.25
+                ],
+                "ForemanCoords": [
+                    1532.75,
+                    369.5,
+                    1730.75,
+                    385.25
+                ],
+                "SuperCoords": [
+                    1532.75,
+                    387.5,
+                    1730.75,
+                    403.25
+                ],
+                "Collapsed": false
+            },
+            "note": "Finished?"
+        },
+        {
+            "name": "Brick Church BUILDING A",
+            "x": 50.0,
+            "y": 612.5,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": true,
+                "Electrician": [
+                    361,
+                    485
+                ],
+                "ElectricianBoxCoords": [
+                    52.25,
+                    693.5,
+                    250.25,
+                    857.75
+                ],
+                "PMCoords": [
+                    52.25,
+                    614.75,
+                    250.25,
+                    630.5
+                ],
+                "GMCoords": [
+                    52.25,
+                    632.75,
+                    250.25,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    52.25,
+                    650.75,
+                    250.25,
+                    666.5
+                ],
+                "SuperCoords": [
+                    52.25,
+                    668.75,
+                    250.25,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Avid Hotel - MD",
+            "x": 261.5,
+            "y": 612.5,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    263.75,
+                    693.5,
+                    461.75,
+                    857.75
+                ],
+                "PMCoords": [
+                    263.75,
+                    614.75,
+                    461.75,
+                    630.5
+                ],
+                "GMCoords": [
+                    263.75,
+                    632.75,
+                    461.75,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    263.75,
+                    650.75,
+                    461.75,
+                    666.5
+                ],
+                "SuperCoords": [
+                    263.75,
+                    668.75,
+                    461.75,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": "No one clocked in"
+        },
+        {
+            "name": "Cooley LLP",
+            "x": 473.0,
+            "y": 612.5,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    475.25,
+                    693.5,
+                    673.25,
+                    857.75
+                ],
+                "PMCoords": [
+                    475.25,
+                    614.75,
+                    673.25,
+                    630.5
+                ],
+                "GMCoords": [
+                    475.25,
+                    632.75,
+                    673.25,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    475.25,
+                    650.75,
+                    673.25,
+                    666.5
+                ],
+                "SuperCoords": [
+                    475.25,
+                    668.75,
+                    673.25,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": "Need to schedule work for 11/22"
+        },
+        {
+            "name": "28 Tyburski",
+            "x": 684.5,
+            "y": 612.5,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    686.75,
+                    693.5,
+                    884.75,
+                    857.75
+                ],
+                "PMCoords": [
+                    686.75,
+                    614.75,
+                    884.75,
+                    630.5
+                ],
+                "GMCoords": [
+                    686.75,
+                    632.75,
+                    884.75,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    686.75,
+                    650.75,
+                    884.75,
+                    666.5
+                ],
+                "SuperCoords": [
+                    686.75,
+                    668.75,
+                    884.75,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Ballenger Pump Pumphouse",
+            "x": 896.0,
+            "y": 612.5,
+            "status": {
+                "PM": false,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    898.25,
+                    693.5,
+                    1096.25,
+                    857.75
+                ],
+                "PMCoords": [
+                    898.25,
+                    614.75,
+                    1096.25,
+                    630.5
+                ],
+                "GMCoords": [
+                    898.25,
+                    632.75,
+                    1096.25,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    898.25,
+                    650.75,
+                    1096.25,
+                    666.5
+                ],
+                "SuperCoords": [
+                    898.25,
+                    668.75,
+                    1096.25,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "CDJR Freeland, TN",
+            "x": 1107.5,
+            "y": 612.5,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1109.75,
+                    693.5,
+                    1307.75,
+                    857.75
+                ],
+                "PMCoords": [
+                    1109.75,
+                    614.75,
+                    1307.75,
+                    630.5
+                ],
+                "GMCoords": [
+                    1109.75,
+                    632.75,
+                    1307.75,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    1109.75,
+                    650.75,
+                    1307.75,
+                    666.5
+                ],
+                "SuperCoords": [
+                    1109.75,
+                    668.75,
+                    1307.75,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Spirit CDJR Swedesboro, NJ",
+            "x": 1319.0,
+            "y": 612.5,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1321.25,
+                    693.5,
+                    1519.25,
+                    857.75
+                ],
+                "PMCoords": [
+                    1321.25,
+                    614.75,
+                    1519.25,
+                    630.5
+                ],
+                "GMCoords": [
+                    1321.25,
+                    632.75,
+                    1519.25,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    1321.25,
+                    650.75,
+                    1519.25,
+                    666.5
+                ],
+                "SuperCoords": [
+                    1321.25,
+                    668.75,
+                    1519.25,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "CDJR Bridgeton, NJ",
+            "x": 1530.5,
+            "y": 612.5,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1532.75,
+                    693.5,
+                    1730.75,
+                    857.75
+                ],
+                "PMCoords": [
+                    1532.75,
+                    614.75,
+                    1730.75,
+                    630.5
+                ],
+                "GMCoords": [
+                    1532.75,
+                    632.75,
+                    1730.75,
+                    648.5
+                ],
+                "ForemanCoords": [
+                    1532.75,
+                    650.75,
+                    1730.75,
+                    666.5
+                ],
+                "SuperCoords": [
+                    1532.75,
+                    668.75,
+                    1730.75,
+                    684.5
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "DCH Honda Tampa",
+            "x": 50.0,
+            "y": 893.75,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    52.25,
+                    974.75,
+                    250.25,
+                    1139.0
+                ],
+                "PMCoords": [
+                    52.25,
+                    896.0,
+                    250.25,
+                    911.75
+                ],
+                "GMCoords": [
+                    52.25,
+                    914.0,
+                    250.25,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    52.25,
+                    932.0,
+                    250.25,
+                    947.75
+                ],
+                "SuperCoords": [
+                    52.25,
+                    950.0,
+                    250.25,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "DCH Honda Wesley Chapel",
+            "x": 261.5,
+            "y": 893.75,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    263.75,
+                    974.75,
+                    461.75,
+                    1139.0
+                ],
+                "PMCoords": [
+                    263.75,
+                    896.0,
+                    461.75,
+                    911.75
+                ],
+                "GMCoords": [
+                    263.75,
+                    914.0,
+                    461.75,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    263.75,
+                    932.0,
+                    461.75,
+                    947.75
+                ],
+                "SuperCoords": [
+                    263.75,
+                    950.0,
+                    461.75,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "200 E 15th Street",
+            "x": 473.0,
+            "y": 893.75,
+            "status": {
+                "PM": true,
+                "GM": true,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    475.25,
+                    974.75,
+                    673.25,
+                    1139.0
+                ],
+                "PMCoords": [
+                    475.25,
+                    896.0,
+                    673.25,
+                    911.75
+                ],
+                "GMCoords": [
+                    475.25,
+                    914.0,
+                    673.25,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    475.25,
+                    932.0,
+                    673.25,
+                    947.75
+                ],
+                "SuperCoords": [
+                    475.25,
+                    950.0,
+                    673.25,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "2902 Emmons ave - hotel underground",
+            "x": 684.5,
+            "y": 893.75,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [
+                    393
+                ],
+                "ElectricianBoxCoords": [
+                    686.75,
+                    974.75,
+                    884.75,
+                    1139.0
+                ],
+                "PMCoords": [
+                    686.75,
+                    896.0,
+                    884.75,
+                    911.75
+                ],
+                "GMCoords": [
+                    686.75,
+                    914.0,
+                    884.75,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    686.75,
+                    932.0,
+                    884.75,
+                    947.75
+                ],
+                "SuperCoords": [
+                    686.75,
+                    950.0,
+                    884.75,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "10 Grove Street",
+            "x": 896.0,
+            "y": 893.75,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    898.25,
+                    974.75,
+                    1096.25,
+                    1139.0
+                ],
+                "PMCoords": [
+                    898.25,
+                    896.0,
+                    1096.25,
+                    911.75
+                ],
+                "GMCoords": [
+                    898.25,
+                    914.0,
+                    1096.25,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    898.25,
+                    932.0,
+                    1096.25,
+                    947.75
+                ],
+                "SuperCoords": [
+                    898.25,
+                    950.0,
+                    1096.25,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "55 Hudson Yards",
+            "x": 1107.5,
+            "y": 893.75,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1109.75,
+                    974.75,
+                    1307.75,
+                    1139.0
+                ],
+                "PMCoords": [
+                    1109.75,
+                    896.0,
+                    1307.75,
+                    911.75
+                ],
+                "GMCoords": [
+                    1109.75,
+                    914.0,
+                    1307.75,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    1109.75,
+                    932.0,
+                    1307.75,
+                    947.75
+                ],
+                "SuperCoords": [
+                    1109.75,
+                    950.0,
+                    1307.75,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": "Need Robert Santos & Ugo Desantis for 12/22"
+        },
+        {
+            "name": "Make the road",
+            "x": 1319.0,
+            "y": 893.75,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1321.25,
+                    974.75,
+                    1519.25,
+                    1139.0
+                ],
+                "PMCoords": [
+                    1321.25,
+                    896.0,
+                    1519.25,
+                    911.75
+                ],
+                "GMCoords": [
+                    1321.25,
+                    914.0,
+                    1519.25,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    1321.25,
+                    932.0,
+                    1519.25,
+                    947.75
+                ],
+                "SuperCoords": [
+                    1321.25,
+                    950.0,
+                    1519.25,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Admin Office",
+            "x": 1530.5,
+            "y": 893.75,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [],
+                "ElectricianBoxCoords": [
+                    1532.75,
+                    974.75,
+                    1730.75,
+                    1139.0
+                ],
+                "PMCoords": [
+                    1532.75,
+                    896.0,
+                    1730.75,
+                    911.75
+                ],
+                "GMCoords": [
+                    1532.75,
+                    914.0,
+                    1730.75,
+                    929.75
+                ],
+                "ForemanCoords": [
+                    1532.75,
+                    932.0,
+                    1730.75,
+                    947.75
+                ],
+                "SuperCoords": [
+                    1532.75,
+                    950.0,
+                    1730.75,
+                    965.75
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        },
+        {
+            "name": "Unassigned",
+            "x": 50.0,
+            "y": 1175.0,
+            "status": {
+                "PM": false,
+                "GM": false,
+                "Foreman": false,
+                "Super": false,
+                "Electrician": [
+                    309,
+                    317,
+                    337,
+                    371,
+                    385,
+                    409,
+                    451
+                ],
+                "ElectricianBoxCoords": [
+                    52.25,
+                    1256.0,
+                    250.25,
+                    1420.25
+                ],
+                "PMCoords": [
+                    52.25,
+                    1177.25,
+                    250.25,
+                    1193.0
+                ],
+                "GMCoords": [
+                    52.25,
+                    1195.25,
+                    250.25,
+                    1211.0
+                ],
+                "ForemanCoords": [
+                    52.25,
+                    1213.25,
+                    250.25,
+                    1229.0
+                ],
+                "SuperCoords": [
+                    52.25,
+                    1231.25,
+                    250.25,
+                    1247.0
+                ],
+                "Collapsed": false
+            },
+            "note": ""
+        }
+    ],
+    "scale": 0.225,
+    "canvas_transform": [
+        -54.0,
+        -56.0
+    ],
+    "scroll_x": 0.0,
+    "scroll_y": 0.0
+}
