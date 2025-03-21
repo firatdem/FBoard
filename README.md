@@ -75,6 +75,7 @@ Reset filters if something seems stuck
 ## File Structure
 
 FBoard/
+
 ├── main.py                  # Entry point for the application
 
 ├── whiteboard_online.py    # Core application logic and GUI
