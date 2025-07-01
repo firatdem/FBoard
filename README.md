@@ -37,61 +37,70 @@ This is the public version of an internal tool used to coordinate electricians, 
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 Running the App
 Simply run:
-
+```bash
 python main.py
+```
 The app will:
+```bash
+- Auto-generate an output.json file if not found.
+- Launch the whiteboard GUI using Tkinter.
+- Usage Overview
+- Creating Job Sites
+- Click “Add Job Site” to add a new job hub labeled Job Site X.
+- Right-click the job name to rename or add an address.
+- Delete a job site via the red “X” icon in the corner.
+- Adding Employees
+- Click “Add Employee” to fill out the employee profile form.
+- Employees can be assigned by dragging them into boxes on job hubs.
+```
 
-Auto-generate an output.json file if not found.
-Launch the whiteboard GUI using Tkinter.
-Usage Overview
-Creating Job Sites
-Click “Add Job Site” to add a new job hub labeled Job Site X.
-Right-click the job name to rename or add an address.
-Delete a job site via the red “X” icon in the corner.
-Adding Employees
-Click “Add Employee” to fill out the employee profile form.
-Employees can be assigned by dragging them into boxes on job hubs.
-Roles Available
-
-PM (Project Manager)
-GC (General Contractor)
-Foreman
-Superintendent
-Electrician (including specialized types like Fire Alarm or Roughing)
-Sticky Notes
-Each job hub has a square icon beside its name.
-Click the square to add a note.
-Hover to view the note, or click again to edit/delete.
-Searching & Filtering
+Roles Available:
+```bash
+- PM (Project Manager)
+- GC (General Contractor)
+- Foreman
+- Superintendent
+- Electrician (including specialized types like Fire Alarm or Roughing)
+- Sticky Notes
+- Each job hub has a square icon beside its name.
+- Click the square to add a note.
+- Hover to view the note, or click again to edit/delete.
+- Searching & Filtering
+```
 Use the side panel to:
-
-Search by name
-Filter by certifications or skills
-Show all employees (even if assigned)
-Reset filters if something seems stuck
-Excel Export & Live Dashboard (New)
-FBoard now includes functionality to export your whiteboard into Excel and publish a live dashboard for team-wide access.
-
+```bash
+- Search by name
+- Filter by certifications or skills
+- Show all employees (even if assigned)
+- Reset filters if something seems stuck
+- Excel Export & Live Dashboard (New)
+- FBoard now includes functionality to export your whiteboard into Excel and publish a live dashboard for team-wide access.
+```
 Excel Export
+
 Run the jsonToExcel.py script to convert your current output.json into a structured Excel file:
-
-Job Site Summary – Electrician totals per job site (by skill).
-Employees – All employee data (roles, phone, status, certifications, etc.).
-Employee List – Grouped by job site for easy crew viewing.
-This feature is ideal for internal reporting, emailing stakeholders, or archiving job site rosters.
-
+```bash
+- Job Site Summary – Electrician totals per job site (by skill).
+- Employees – All employee data (roles, phone, status, certifications, etc.).
+- Employee List – Grouped by job site for easy crew viewing.
+- This feature is ideal for internal reporting, emailing stakeholders, or archiving job site rosters.
+```
 Live Dashboard Server
 Launch a live dashboard using **run_dashboard.py**, which:
+```bash
+- (Optional) Uses a web scraper to fetch the latest CSV from Traqspera.
+- Converts CSV → JSON → Excel.
+- Hosts a Dash-based web dashboard that includes:
+- A bar graph of electrician distribution.
+- Full job site crew listings.
+- A request form for suggested changes.
+```
 
-(Optional) Uses a web scraper to fetch the latest CSV from Traqspera.
-Converts CSV → JSON → Excel.
-Hosts a Dash-based web dashboard that includes:
-A bar graph of electrician distribution.
-Full job site crew listings.
-A request form for suggested changes.
 Note:
 **The run_dashboard.py script is currently tailored to our internal setup using Selenium for web scraping.
 You must adjust this script if you're using your own CSV/JSON file or a different data source.
@@ -99,11 +108,12 @@ Comment out steps 1 and 2 to only utilize whiteboard functionality
 If you wish to use the web scraping feature, you must also update credentials and paths accordingly.**
 
 Remote Access via Ngrok
-Share your live dashboard with others using Ngrok:
 
+Share your live dashboard with others using Ngrok:
+```bash
 ngrok http 5000 # enter this into the ngrok console: https://ngrok.com/downloads/windows?tab=download
 This makes your dashboard publicly accessible with a simple URL — perfect for remote supervisors, team leads, or clients who need read-only access.
-
+```
 ## File Structure
 
 FYI, example files in 3.21.2025 folder
