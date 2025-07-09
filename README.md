@@ -1,6 +1,6 @@
 QUICK DISCLAIMER: This is the public version of an internal tool used to coordinate electricians, supervisors, and contractors in real-world field projects.
 
-## 🏗️ FBoard – Visual Workforce Planning for Job Sites
+## FBoard – Visual Workforce Planning for Job Sites
 
 FBoard is a lightweight, shareable planning board for coordinating field crews across construction job sites. Built for teams managing electricians, supervisors, and contractors, it lets you visually assign workers, add notes, filter by skill, and export job rosters—all from one interactive whiteboard.
 
