@@ -1,7 +1,26 @@
-## **FBoard**  
-A simplified, shareable construction workforce planning board designed to manage manpower assignments across various job sites. It enables your team to assign, search, and track employee status visually on a virtual whiteboard.
+QUICK DISCLAIMER: This is the public version of an internal tool used to coordinate electricians, supervisors, and contractors in real-world field projects.
 
-This is the public version of an internal tool used to coordinate electricians, supervisors, and contractors in real-world field projects. It supports note-taking, zooming, and filtering features, and stores data in a simple `output.json` file that can be shared via cloud storage like OneDrive.
+## 🏗️ FBoard – Visual Workforce Planning for Job Sites
+
+FBoard is a lightweight, shareable planning board for coordinating field crews across construction job sites. Built for teams managing electricians, supervisors, and contractors, it lets you visually assign workers, add notes, filter by skill, and export job rosters—all from one interactive whiteboard.
+
+Originally developed for internal field operations, this open version is easy to customize and share via platforms like OneDrive or Dropbox.
+
+## ⚙️ How It Works
+
+1. 🧍 Add employee profiles
+2. 📌 Assign employees to job sites via drag-and-drop
+3. 📝 Add sticky notes and job site info
+4. 🔍 Search and filter workers by skill or status
+5. 📊 Export your plan to Excel or share it as a live dashboard
+
+## 🧪 Try It Out
+
+1. Clone the repo  
+2. Run `python main.py`  
+3. Add job sites, employees, and try dragging them around  
+4. Export to Excel with `jsonToExcel.py`  
+5. (Optional) Run `run_dashboard.py` to host a local dashboard
 
 ---
 
@@ -59,19 +78,17 @@ The app will:
 - Employees can be assigned by dragging them into boxes on job hubs.
 ```
 
-Roles Available:
-```bash
-- PM (Project Manager)
-- GC (General Contractor)
-- Foreman
-- Superintendent
-- Electrician (including specialized types like Fire Alarm or Roughing)
-- Sticky Notes
-- Each job hub has a square icon beside its name.
-- Click the square to add a note.
-- Hover to view the note, or click again to edit/delete.
-- Searching & Filtering
-```
+<details>
+<summary>📋 Available Roles</summary>
+
+- PM (Project Manager)  
+- GC (General Contractor)  
+- Foreman  
+- Superintendent  
+- Electrician (Fire Alarm, Roughing, etc.)
+
+</details>
+
 Use the side panel to:
 ```bash
 - Search by name
@@ -81,10 +98,12 @@ Use the side panel to:
 - Excel Export & Live Dashboard (New)
 - FBoard now includes functionality to export your whiteboard into Excel and publish a live dashboard for team-wide access.
 ```
-Excel Export
+### 📤 Excel Export (for Email/Reporting)
 
-Run the jsonToExcel.py script to convert your current output.json into a structured Excel file:
+Run:
+
 ```bash
+python jsonToExcel.py
 - Job Site Summary – Electrician totals per job site (by skill).
 - Employees – All employee data (roles, phone, status, certifications, etc.).
 - Employee List – Grouped by job site for easy crew viewing.
@@ -119,7 +138,7 @@ This makes your dashboard publicly accessible with a simple URL — perfect for 
 FYI, example files in 3.21.2025 folder
 
 FBoard/
-
+```bash
 ├── main.py                  # Entry point for the application  
 ├── whiteboard_online.py    # Core application logic and GUI  
 ├── draggable_box.py        # Logic for draggable employee boxes  
@@ -133,7 +152,8 @@ FBoard/
 ├── output.json             # Auto-saved shared board state  
 ├── output.xlsx             # Excel export (created manually or via automation)  
 ├── requirements.txt        # Required Python packages  
-└── README.md               # Project documentation  
+└── README.md               # Project documentation
+```
 Customization
 To edit labels, roles, or visual cues:
 
