@@ -154,17 +154,22 @@ FBoard/
 ├── requirements.txt        # Required Python packages  
 └── README.md               # Project documentation
 ```
-Customization
-To edit labels, roles, or visual cues:
+## 🛠️ Customization
 
-draggable_box.py — for how employee labels are shown.
-constants.py — to define role colors, spacing, zoom, etc.
-Notes
-Designed for shared use via cloud sync platforms like OneDrive.
-Some graphical glitches may require using the “Reload” button.
-Zooming is experimental and may cause rendering issues — use with caution.
-License
-This project is provided as-is for internal or educational use.
+You can edit roles, colors, and layout by modifying:
+
+- `draggable_box.py` – Controls how employee labels are shown
+- `constants.py` – Defines role colors, box size, zoom behavior, spacing, etc.
+
+## 📝 Notes
+
+- Designed for shared use via OneDrive, Dropbox, etc.
+- Zooming is experimental and may cause rendering issues
+- Use the “Reload” button if graphical glitches occur
+
+## 📄 License
+
+This project is provided as-is for internal or educational use.  
 No warranty or guarantee is provided.
 
 Example data and run:
