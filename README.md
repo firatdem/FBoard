@@ -6,15 +6,15 @@ FBoard is a lightweight, shareable planning board for coordinating field crews a
 
 Originally developed for internal field operations, this open version is easy to customize and share via platforms like OneDrive or Dropbox.
 
-## ⚙️ How It Works
+## How It Works
 
-1. 🧍 Add employee profiles
-2. 📌 Assign employees to job sites via drag-and-drop
-3. 📝 Add sticky notes and job site info
-4. 🔍 Search and filter workers by skill or status
-5. 📊 Export your plan to Excel or share it as a live dashboard
+1. Add employee profiles
+2. Assign employees to job sites via drag-and-drop
+3. Add sticky notes and job site info
+4. Search and filter workers by skill or status
+5. Export your plan to Excel or share it as a live dashboard
 
-## 🧪 Try It Out
+## Try It Out
 
 1. Clone the repo  
 2. Run `python main.py`  
@@ -79,7 +79,7 @@ The app will:
 ```
 
 <details>
-<summary>📋 Available Roles</summary>
+<summary>Available Roles</summary>
 
 - PM (Project Manager)  
 - GC (General Contractor)  
@@ -98,7 +98,7 @@ Use the side panel to:
 - Excel Export & Live Dashboard (New)
 - FBoard now includes functionality to export your whiteboard into Excel and publish a live dashboard for team-wide access.
 ```
-### 📤 Excel Export (for Email/Reporting)
+### Excel Export (for Email/Reporting)
 
 Run:
 
@@ -154,20 +154,20 @@ FBoard/
 ├── requirements.txt        # Required Python packages  
 └── README.md               # Project documentation
 ```
-## 🛠️ Customization
+## Customization
 
 You can edit roles, colors, and layout by modifying:
 
 - `draggable_box.py` – Controls how employee labels are shown
 - `constants.py` – Defines role colors, box size, zoom behavior, spacing, etc.
 
-## 📝 Notes
+## Notes
 
 - Designed for shared use via OneDrive, Dropbox, etc.
 - Zooming is experimental and may cause rendering issues
 - Use the “Reload” button if graphical glitches occur
 
-## 📄 License
+## License
 
 This project is provided as-is for internal or educational use.  
 No warranty or guarantee is provided.
